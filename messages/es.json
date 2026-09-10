@@ -1,0 +1,261 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "live": "En Directo",
+    "schedule": "Programación",
+    "onDemand": "A la Carta",
+    "sports": "Deportes",
+    "pricing": "Precios",
+    "signIn": "Iniciar Sesión",
+    "startWatching": "Comenzar a Ver",
+    "createAccount": "Crear Cuenta",
+    "profile": "Mi Perfil",
+    "about": "Sobre Nosotros",
+    "careers": "Carreras",
+    "press": "Prensa",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "ctaTitle": "¿Listo para ver cada partido?",
+    "ctaSubtitle": "Comienza tu prueba gratuita hoy. No se requiere tarjeta de crédito.",
+    "ctaButton": "Comenzar Gratis",
+    "brandDesc": "La plataforma de transmisión de deportes definitiva. Mira partidos en directo, repeticiones y destacados de todas las ligas y torneos principales del mundo.",
+    "watchTitle": "Ver",
+    "accountTitle": "Cuenta",
+    "companyTitle": "Empresa",
+    "copyright": "© 2025 ArenaStream. Todos los derechos reservados."
+  },
+  "auth": {
+    "demoButton": "Probar Demo",
+    "divider": "o",
+    "errors": {
+      "agreeRequired": "Debes aceptar nuestros términos para continuar",
+      "confirmMismatch": "Las contraseñas no coinciden",
+      "confirmRequired": "Por favor confirma tu contraseña",
+      "emailInvalid": "Ingresa una dirección de correo válida",
+      "emailRequired": "El correo es obligatorio",
+      "nameRequired": "El nombre es obligatorio",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordShort": "La contraseña debe tener al menos 8 caracteres"
+    },
+    "fields": {
+      "confirm": "Confirmar Contraseña",
+      "email": "Correo Electrónico",
+      "name": "Nombre Completo",
+      "password": "Contraseña"
+    },
+    "panel": {
+      "headline": "Transmite Cada Partido",
+      "subheadline": "Deportes en directo, en cualquier momento y lugar."
+    },
+    "placeholders": {
+      "confirm": "Confirma tu contraseña",
+      "email": "tu@ejemplo.com",
+      "name": "Juan Pérez",
+      "password": "••••••••"
+    },
+    "signin": {
+      "forgot": "¿Olvidaste tu contraseña?",
+      "heading": "Bienvenido de Vuelta",
+      "subheading": "Inicia sesión en tu cuenta para continuar viendo",
+      "submit": "Iniciar Sesión",
+      "switchLink": "Crear una cuenta",
+      "switchPrompt": "¿Nuevo en StreamSports?"
+    },
+    "signup": {
+      "heading": "Únete a StreamSports",
+      "privacyLink": "Política de Privacidad",
+      "subheading": "Crea tu cuenta y comienza a transmitir al instante",
+      "submit": "Crear Cuenta",
+      "switchLink": "Inicia sesión en su lugar",
+      "switchPrompt": "¿Ya tienes una cuenta?",
+      "termsAnd": "y",
+      "termsLink": "Términos de Servicio",
+      "termsPrefix": "Acepto los"
+    },
+    "success": {
+      "cta": "Comenzar a Ver",
+      "signinBody": "Todo listo. Ve a las transmisiones en vivo ahora.",
+      "signinTitle": "¡Bienvenido de vuelta!",
+      "signupBody": "Tu cuenta está lista. Disfruta de transmisión de deportes ilimitada.",
+      "signupTitle": "¡Cuenta creada!"
+    },
+    "tabs": {
+      "signin": "Iniciar Sesión",
+      "signup": "Registrarse"
+    },
+    "testimonial": {
+      "quote": "StreamSports es la única aplicación que necesito para juegos en vivo. Calidad cristalina y sin retrasos.",
+      "role": "Aficionado al Deporte"
+    },
+    "trustBadges": {
+      "cancel": "Cancelar en cualquier momento",
+      "noSpam": "Sin spam, nunca",
+      "secure": "Seguridad a nivel bancario"
+    }
+  },
+  "live": {
+    "allStreamsTitle": "En Vivo Ahora",
+    "allStreamsTitleFiltered": "Transmisiones en Vivo",
+    "ctaBody": "Mira deportes en vivo de todo el mundo",
+    "ctaEyebrow": "Oferta por tiempo limitado",
+    "ctaHeading": "Nunca pierdas un momento",
+    "ctaPrimary": "Comienza a ver gratis",
+    "ctaSecondary": "Más información",
+    "emptyBody": "Vuelve pronto para próximos partidos y eventos.",
+    "emptyReset": "Limpiar filtros",
+    "emptyTitle": "No hay transmisiones en vivo en este momento",
+    "featuredSub": "Recomendación principal",
+    "featuredTitle": "Partido destacado",
+    "headerBadge": "En directo ahora",
+    "heading": "Deportes en directo",
+    "mostWatchedBadge": "Tendencia",
+    "mostWatchedTitle": "Más visto",
+    "searchPlaceholder": "Buscar equipos, deportes o ligas",
+    "statSports": "Deportes",
+    "statStreams": "Transmisiones en directo",
+    "statViewers": "Viendo ahora",
+    "streamCount": "transmisiones en directo",
+    "subheading": "Mira tus equipos y atletas favoritos en tiempo real"
+  },
+  "onDemand": {
+    "ctaBody": "Disfruta de todos los mejores momentos, repeticiones y contenido exclusivo cuando quieras.",
+    "ctaBtn": "Explorar bajo demanda",
+    "ctaBtnSecondary": "Ver precios",
+    "ctaEyebrow": "Mira cuando quieras",
+    "ctaHeading": "Miles de partidos bajo demanda",
+    "eyebrow": "Bajo demanda",
+    "heading": "Repeticiones y mejores momentos",
+    "noResults": "No se encontraron partidos",
+    "noResultsSub": "Intenta ajustar tu búsqueda o filtros",
+    "resultsLabel": "Resultados",
+    "searchBtn": "Buscar",
+    "searchPlaceholder": "Buscar por equipo, deporte o fecha",
+    "subheading": "Revive los mejores momentos de tus deportes favoritos"
+  },
+  "pricing": {
+    "card": {
+      "annualNote": "Ahorra 2 meses con facturación anual",
+      "ctaFree": "Comenzar prueba gratuita",
+      "ctaPaid": "Suscribirse ahora",
+      "free": "Gratis",
+      "mostPopular": "Más popular",
+      "perMonth": "al mes",
+      "perYear": "al año"
+    },
+    "comparison": {
+      "featureCol": "Características",
+      "subtitle": "Elige el plan que se adapte a tus necesidades",
+      "title": "Comparar planes"
+    },
+    "cta": {
+      "disclaimer": "Cancela en cualquier momento. Sin cargos ocultos.",
+      "primary": "Comenzar",
+      "secondary": "Ver todos los planes",
+      "subtitle": "Transmite en directo y bajo demanda sin anuncios",
+      "title": "Elige tu plan"
+    },
+    "eyebrow": "Precios simples y transparentes",
+    "faq": {
+      "subtitle": "Encuentra respuestas a preguntas frecuentes",
+      "title": "Preguntas frecuentes"
+    },
+    "hero": {
+      "subtitle": "Transmite cada partido, cada momento, cada deporte—todo en un solo lugar.",
+      "title": "Planes para Cada Aficionado"
+    },
+    "stats": {
+      "countries": "195 Países",
+      "events": "10K+ Eventos Anuales",
+      "rating": "Calificación 4.8★",
+      "subscribers": "2M+ Suscriptores"
+    },
+    "toggle": {
+      "annual": "Anual",
+      "monthly": "Mensual",
+      "saveBadge": "Ahorra 25%"
+    }
+  },
+  "profile": {
+    "accountSettings": "Configuración de Cuenta",
+    "cancel": "Cancelar Suscripción",
+    "editProfile": "Editar Perfil",
+    "favoriteSports": "Deportes Favoritos",
+    "last30Days": "Últimos 30 Días",
+    "markAllRead": "Marcar Todo como Leído",
+    "memberSince": "Miembro Desde",
+    "name": "Nombre",
+    "nextBilling": "Próxima Fecha de Facturación",
+    "notifications": "Notificaciones",
+    "recentlyWatched": "Visto Recientemente",
+    "save": "Guardar Cambios",
+    "saved": "Guardado",
+    "settings": {
+      "downloads": "Descargas",
+      "emailPrefs": "Preferencias de Correo",
+      "notifications": "Configuración de Notificaciones",
+      "personalInfo": "Información Personal",
+      "security": "Seguridad"
+    },
+    "subscription": "Suscripción",
+    "tabs": {
+      "activity": "Actividad",
+      "bookmarks": "Marcadores",
+      "notifications": "Notificaciones"
+    },
+    "upcomingBookmarks": "Próximos Marcadores",
+    "upgrade": "Mejorar Plan"
+  },
+  "watch": {
+    "actions": {
+      "download": "Descargar",
+      "favorite": "Agregar a Favoritos",
+      "share": "Compartir"
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "live": "En Vivo"
+    },
+    "comments": {
+      "placeholder": "Comparte tus pensamientos…",
+      "reply": "Responder",
+      "send": "Enviar"
+    },
+    "info": {
+      "featured": "Destacado",
+      "hdStream": "Transmisión HD",
+      "live": "En Vivo Ahora",
+      "watching": "Viendo"
+    },
+    "player": {
+      "live": "EN VIVO"
+    },
+    "related": {
+      "title": "Siguiente",
+      "viewAll": "Ver Todo"
+    },
+    "scoreboard": {
+      "title": "Marcador"
+    },
+    "settings": {
+      "playbackSpeed": "Velocidad de Reproducción"
+    },
+    "streamInfo": {
+      "bitrate": "Velocidad de Bits",
+      "latency": "Latencia",
+      "quality": "Calidad",
+      "server": "Servidor",
+      "title": "Información de Transmisión"
+    },
+    "tabs": {
+      "comments": "Comentarios",
+      "events": "Eventos"
+    },
+    "upgrade": {
+      "cta": "Actualizar Ahora",
+      "description": "Obtén transmisión 4K, vista múltiple y deportes sin anuncios.",
+      "eyebrow": "Características Premium",
+      "title": "Desbloquea Premium"
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "nav": {
+    "home": "Home",
+    "live": "Live",
+    "schedule": "Schedule",
+    "onDemand": "On Demand",
+    "sports": "Sports",
+    "pricing": "Pricing",
+    "signIn": "Sign In",
+    "startWatching": "Start Watching",
+    "createAccount": "Create Account",
+    "profile": "My Profile",
+    "about": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "contact": "Contact"
+  },
+  "footer": {
+    "ctaTitle": "Ready to watch every match?",
+    "ctaSubtitle": "Start your free trial today. No credit card required.",
+    "ctaButton": "Get Started Free",
+    "brandDesc": "The ultimate sports streaming platform. Watch live matches, replays, and highlights from every major league and tournament worldwide.",
+    "watchTitle": "Watch",
+    "accountTitle": "Account",
+    "companyTitle": "Company",
+    "copyright": "© 2025 ArenaStream. All rights reserved."
+  },
+  "auth": {
+    "demoButton": "Try Demo",
+    "divider": "or",
+    "errors": {
+      "agreeRequired": "You must agree to our terms to continue",
+      "confirmMismatch": "Passwords don't match",
+      "confirmRequired": "Please confirm your password",
+      "emailInvalid": "Enter a valid email address",
+      "emailRequired": "Email is required",
+      "nameRequired": "Name is required",
+      "passwordRequired": "Password is required",
+      "passwordShort": "Password must be at least 8 characters"
+    },
+    "fields": {
+      "confirm": "Confirm Password",
+      "email": "Email",
+      "name": "Full Name",
+      "password": "Password"
+    },
+    "panel": {
+      "headline": "Stream Every Game",
+      "subheadline": "Live sports, anytime, anywhere."
+    },
+    "placeholders": {
+      "confirm": "Confirm your password",
+      "email": "you@example.com",
+      "name": "John Doe",
+      "password": "••••••••"
+    },
+    "signin": {
+      "forgot": "Forgot password?",
+      "heading": "Welcome Back",
+      "subheading": "Sign in to your account to continue watching",
+      "submit": "Sign In",
+      "switchLink": "Create an account",
+      "switchPrompt": "New to StreamSports?"
+    },
+    "signup": {
+      "heading": "Join StreamSports",
+      "privacyLink": "Privacy Policy",
+      "subheading": "Create your account and start streaming instantly",
+      "submit": "Create Account",
+      "switchLink": "Sign in instead",
+      "switchPrompt": "Already have an account?",
+      "termsAnd": "and",
+      "termsLink": "Terms of Service",
+      "termsPrefix": "I agree to the"
+    },
+    "success": {
+      "cta": "Start Watching",
+      "signinBody": "You're all set. Head to the live streams now.",
+      "signinTitle": "Welcome back!",
+      "signupBody": "Your account is ready. Enjoy unlimited sports streaming.",
+      "signupTitle": "Account created!"
+    },
+    "tabs": {
+      "signin": "Sign In",
+      "signup": "Sign Up"
+    },
+    "testimonial": {
+      "quote": "StreamSports is the only app I need for live games. Crystal clear quality and zero lag.",
+      "role": "Sports Fan"
+    },
+    "trustBadges": {
+      "cancel": "Cancel anytime",
+      "noSpam": "No spam, ever",
+      "secure": "Bank-level security"
+    }
+  },
+  "live": {
+    "allStreamsTitle": "Live Now",
+    "allStreamsTitleFiltered": "Live Streams",
+    "ctaBody": "Watch live sports from around the world",
+    "ctaEyebrow": "Limited time offer",
+    "ctaHeading": "Never miss a moment",
+    "ctaPrimary": "Start watching free",
+    "ctaSecondary": "Learn more",
+    "emptyBody": "Check back soon for upcoming matches and events.",
+    "emptyReset": "Clear filters",
+    "emptyTitle": "No live streams right now",
+    "featuredSub": "Top pick",
+    "featuredTitle": "Featured match",
+    "headerBadge": "Live now",
+    "heading": "Live sports",
+    "mostWatchedBadge": "Trending",
+    "mostWatchedTitle": "Most watched",
+    "searchPlaceholder": "Search teams, sports, or leagues",
+    "statSports": "Sports",
+    "statStreams": "Live streams",
+    "statViewers": "Watching now",
+    "streamCount": "streams live",
+    "subheading": "Watch your favorite teams and athletes in real time"
+  },
+  "onDemand": {
+    "ctaBody": "Catch every highlight, replay, and exclusive moment whenever you want.",
+    "ctaBtn": "Browse on demand",
+    "ctaBtnSecondary": "See pricing",
+    "ctaEyebrow": "Watch anytime",
+    "ctaHeading": "Thousands of games on demand",
+    "eyebrow": "On demand",
+    "heading": "Replays and highlights",
+    "noResults": "No matches found",
+    "noResultsSub": "Try adjusting your search or filters",
+    "resultsLabel": "Results",
+    "searchBtn": "Search",
+    "searchPlaceholder": "Search by team, sport, or date",
+    "subheading": "Relive the best moments from your favorite sports"
+  },
+  "pricing": {
+    "card": {
+      "annualNote": "Save 2 months with annual billing",
+      "ctaFree": "Start free trial",
+      "ctaPaid": "Subscribe now",
+      "free": "Free",
+      "mostPopular": "Most popular",
+      "perMonth": "per month",
+      "perYear": "per year"
+    },
+    "comparison": {
+      "featureCol": "Features",
+      "subtitle": "Choose the plan that fits your needs",
+      "title": "Compare plans"
+    },
+    "cta": {
+      "disclaimer": "Cancel anytime. No hidden fees.",
+      "primary": "Get started",
+      "secondary": "View all plans",
+      "subtitle": "Stream live and on demand with no ads",
+      "title": "Pick your plan"
+    },
+    "eyebrow": "Simple, transparent pricing",
+    "faq": {
+      "subtitle": "Find answers to common questions",
+      "title": "Frequently asked questions"
+    },
+    "hero": {
+      "subtitle": "Stream every match, every moment, every sport—all in one place.",
+      "title": "Plans for Every Fan"
+    },
+    "stats": {
+      "countries": "195 Countries",
+      "events": "10K+ Events Yearly",
+      "rating": "4.8★ Rating",
+      "subscribers": "2M+ Subscribers"
+    },
+    "toggle": {
+      "annual": "Annual",
+      "monthly": "Monthly",
+      "saveBadge": "Save 25%"
+    }
+  },
+  "profile": {
+    "accountSettings": "Account Settings",
+    "cancel": "Cancel Subscription",
+    "editProfile": "Edit Profile",
+    "favoriteSports": "Favorite Sports",
+    "last30Days": "Last 30 Days",
+    "markAllRead": "Mark All Read",
+    "memberSince": "Member Since",
+    "name": "Name",
+    "nextBilling": "Next Billing Date",
+    "notifications": "Notifications",
+    "recentlyWatched": "Recently Watched",
+    "save": "Save Changes",
+    "saved": "Saved",
+    "settings": {
+      "downloads": "Downloads",
+      "emailPrefs": "Email Preferences",
+      "notifications": "Notification Settings",
+      "personalInfo": "Personal Information",
+      "security": "Security"
+    },
+    "subscription": "Subscription",
+    "tabs": {
+      "activity": "Activity",
+      "bookmarks": "Bookmarks",
+      "notifications": "Notifications"
+    },
+    "upcomingBookmarks": "Upcoming Bookmarks",
+    "upgrade": "Upgrade Plan"
+  },
+  "watch": {
+    "actions": {
+      "download": "Download",
+      "favorite": "Add to Favorites",
+      "share": "Share"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "live": "Live"
+    },
+    "comments": {
+      "placeholder": "Share your thoughts…",
+      "reply": "Reply",
+      "send": "Send"
+    },
+    "info": {
+      "featured": "Featured",
+      "hdStream": "HD Stream",
+      "live": "Live Now",
+      "watching": "Watching"
+    },
+    "player": {
+      "live": "LIVE"
+    },
+    "related": {
+      "title": "Up Next",
+      "viewAll": "View All"
+    },
+    "scoreboard": {
+      "title": "Scoreboard"
+    },
+    "settings": {
+      "playbackSpeed": "Playback Speed"
+    },
+    "streamInfo": {
+      "bitrate": "Bitrate",
+      "latency": "Latency",
+      "quality": "Quality",
+      "server": "Server",
+      "title": "Stream Info"
+    },
+    "tabs": {
+      "comments": "Comments",
+      "events": "Events"
+    },
+    "upgrade": {
+      "cta": "Upgrade Now",
+      "description": "Get 4K streaming, multi-view, and ad-free sports.",
+      "eyebrow": "Premium Features",
+      "title": "Unlock Premium"
+    }
+  }
+}
